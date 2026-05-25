@@ -18,7 +18,7 @@ const Hero = () => {
               <span className="text-primary text-glow">Guled Abdirahman Jama</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-medium">
-              Web Developer | Photographer | Taekwondo Trainer
+              Web Developer
             </p>
             <p className="text-lg text-muted-foreground max-w-2xl">
               A hardworking, self-motivated individual focused on skill development, 
